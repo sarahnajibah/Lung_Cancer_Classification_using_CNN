@@ -1,5 +1,5 @@
 # Lung_Cancer_Classification_using_CNN
-Deep learning project for classifying lung cancer into three types - benign, malignant, and normal - using CNN. 
+Machine learning project for classifying lung cancer into three types - benign, malignant, and normal - using CNN. 
 The dataset was obtained from Kaggle's: https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset. 
 In this implementation, I divided the process into five stages: 
 - importing libraries
